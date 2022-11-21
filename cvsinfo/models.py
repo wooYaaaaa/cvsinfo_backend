@@ -10,7 +10,6 @@ class Product(models.Model):
 
 class Event(models.Model):
     eventTitle = models.CharField(max_length=200)
-    eventSubtitle = models.CharField(max_length=200)
-    eventImageURL = models.CharField(max_length=200)
-    eventLinkURL = models.CharField(max_length=200,default='')
     eventCompany = models.CharField(max_length=200,default='')
+    eventImageURL = models.CharField(max_length=200)
+    
