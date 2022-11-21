@@ -9,4 +9,4 @@ class ProductSerializer(serializers.ModelSerializer):
 class EventSerializer(serializers.ModelSerializer):
     class Meta:
         model = Event
-        fields = ('eventTitle', 'eventCompany', 'eventImageURL')
+        fields = ('name', 'company', 'imgUrl')

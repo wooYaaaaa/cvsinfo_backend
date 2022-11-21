@@ -1,0 +1,474 @@
+[
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "코오롱스포츠 신상품 쏜다! 2022년 11월 1일 ~ 2022년 11월 30일",
+      "company": "이마트24",
+      "imgUrl": "https://www.emart24.co.kr/upload/eventCard/PC%EC%83%81%EC%84%B8_820_v3_221031.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "코오롱스포츠 콜라보 기념 블랭킷 세트 쏜다 2022년 11월 1일 ~ 2022년 11월 30일",
+      "company": "이마트24",
+      "imgUrl": "https://www.emart24.co.kr/upload/eventCard/PC%EC%83%81%EC%84%B8_820_v1_221028_1.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "에이스침대 콜라보 굿즈 선착순 300명 쏜다! 2022년 11월 1일 ~ 2022년 11월 13일",
+      "company": "이마트24",
+      "imgUrl": "https://www.emart24.co.kr/upload/eventCard/PC%EC%83%81%EC%84%B8_820_v1_221028-(2).jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "11월 신규가입 이벤트 11.01 ~ 11.30",
+      "company": "CU",
+      "imgUrl": "http://cdn2.bgfretail.com/bgfbrand/files/editor/D5E2A4A70C444FFCAE47CD83E19FBA13.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "첫 키핑하고 5천원 할인쿠폰 받자! 11.01 ~ 11.30",
+      "company": "CU",
+      "imgUrl": "http://cdn2.bgfretail.com/bgfbrand/files/editor/7F60797876F44C6EBF10915BE403BB98.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "대-단하고 충-분한 GS Pay 한정판 이벤트 2022.11.01 ~ 2022.11.30",
+      "company": "GS25",
+      "imgUrl": "https://hpsimg.gsretail.com/medias/sys_master/images/images/hb7/h77/9079249240094.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "프로 픽업러라면 두 가지 혜택 모두 GET! 2022.11.01 ~ 2022.11.14",
+      "company": "GS25",
+      "imgUrl": "https://hpsimg.gsretail.com/medias/sys_master/images/images/h8b/h8c/9079304093726.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "대-단하고 충-분한 11월 GS Pay 행사 모음 2022.11.01 ~ 2022.11.30",
+      "company": "GS25",
+      "imgUrl": "https://hpsimg.gsretail.com/medias/sys_master/images/images/h81/hc9/9079248584734.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "11월 오직 10일 간! 범상치 않은 한 주 2022.11.01 ~ 2022.11.10",
+      "company": "GS25",
+      "imgUrl": "https://hpsimg.gsretail.com/medias/sys_master/images/images/haf/h56/9079248519198.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "11월 이달의 와인 2022-11-01 ~ 2022-11-30",
+      "company": "세븐일레븐",
+      "imgUrl": "https://www.7-eleven.co.kr/upload/event/20221026130726380r951.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "세븐에서 치맥먹고 다같이 승리 2022-11-01 ~ 2022-11-30",
+      "company": "세븐일레븐",
+      "imgUrl": "https://www.7-eleven.co.kr/upload/event/20221026130624504r533.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "코리아세일페스타 2022-11-01 ~ 2022-11-30",
+      "company": "세븐일레븐",
+      "imgUrl": "https://www.7-eleven.co.kr/upload/event/20221026130517416r581.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "롯키데이 2022-11-01 ~ 2022-11-30",
+      "company": "세븐일레븐",
+      "imgUrl": "https://www.7-eleven.co.kr/upload/event/20221026130413696r376.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "11월 증정할인행사 Korea Sale Festa (22.11.01~22.11.30)",
+      "company": "씨스페이스",
+      "imgUrl": "https://cspace.co.kr/program_file/board/contents_img01/B920221031174342.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "11월 주류할인행사(22.11.01~11.30)",
+      "company": "씨스페이스",
+      "imgUrl": "https://cspace.co.kr/program_file/board/contents_img01/3vB20221031174258.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "매월 25일에만 찾아오는 오로지 DAY 2022.10.25 ~ 2022.10.25",
+      "company": "GS25",
+      "imgUrl": "https://hpsimg.gsretail.com/medias/sys_master/images/images/ha6/hb3/9078797991966.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "10월 GS상상초월! 범상치 않은 한 주 2022.10.01 ~ 2022.10.10",
+      "company": "GS25",
+      "imgUrl": "https://hpsimg.gsretail.com/medias/sys_master/images/images/h84/he5/9078029582366.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "따뜻한 가을 간식 모음 BC카드 50% QR행사 2022.10.01 ~ 2022.10.31",
+      "company": "GS25",
+      "imgUrl": "https://hpsimg.gsretail.com/medias/sys_master/images/images/h80/he4/9077964636190.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "대-단하고 충-분한 GS Pay 첫 결제 고객 페이백! 2022.10.01 ~ 2022.10.31",
+      "company": "GS25",
+      "imgUrl": "https://hpsimg.gsretail.com/medias/sys_master/images/images/h84/h6b/9077901819934.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "대-단하고 충-분한 GS Pay 낱개 호빵 구매 시 덤 증정 2022.10.01 ~ 2022.10.31",
+      "company": "GS25",
+      "imgUrl": "https://hpsimg.gsretail.com/medias/sys_master/images/images/h8e/hbb/9077901885470.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "대-단하고 충-분한 GS Pay 인기상품 11종 1+1 2022.10.01 ~ 2022.10.31",
+      "company": "GS25",
+      "imgUrl": "https://hpsimg.gsretail.com/medias/sys_master/images/images/hf3/hb5/9077901951006.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "10월 상상초월 결제수단 행사! 2022.10.01 ~ 2022.10.31",
+      "company": "GS25",
+      "imgUrl": "https://hpsimg.gsretail.com/medias/sys_master/images/images/h55/h72/9077881536542.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "우유바우처 2022-10-01 ~ 2022-12-31",
+      "company": "세븐일레븐",
+      "imgUrl": "https://www.7-eleven.co.kr/upload/event/20220930090524352r800.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "아침앤세븐 2022-10-01 ~ 2022-10-31",
+      "company": "세븐일레븐",
+      "imgUrl": "https://www.7-eleven.co.kr/upload/event/20220930090326094r450.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "이달의 증정 2022-10-01 ~ 2022-10-31",
+      "company": "세븐일레븐",
+      "imgUrl": "https://www.7-eleven.co.kr/upload/event/20220930090203872r718.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "위스키 우리카드할인 2022-10-01 ~ 2022-10-31",
+      "company": "세븐일레븐",
+      "imgUrl": "https://www.7-eleven.co.kr/upload/event/20220930090057496r982.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "10월 이달의와인 2022-10-01 ~ 2022-10-31",
+      "company": "세븐일레븐",
+      "imgUrl": "https://www.7-eleven.co.kr/upload/event/20220930085934340r456.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "호빵전종 롯데카드할인 2022-10-01 ~ 2022-10-31",
+      "company": "세븐일레븐",
+      "imgUrl": "https://www.7-eleven.co.kr/upload/event/20220930085820342r362.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "굿민흰우유 롯데카드할인 2022-10-01 ~ 2022-10-31",
+      "company": "세븐일레븐",
+      "imgUrl": "https://www.7-eleven.co.kr/upload/event/20220930085705340r698.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "페이북 결제 할인 2022-10-01 ~ 2022-10-31",
+      "company": "세븐일레븐",
+      "imgUrl": "https://www.7-eleven.co.kr/upload/event/20220930101444004r307.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "한끼걱정 끝 2022-10-01 ~ 2022-10-31",
+      "company": "세븐일레븐",
+      "imgUrl": "https://www.7-eleven.co.kr/upload/event/20220930093849240r285.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "10월 카드혜택 안내 2022년 10월 1일 ~ 2022년 10월 31일",
+      "company": "이마트24",
+      "imgUrl": "https://www.emart24.co.kr/upload/eventCard/PC%EC%83%81%EC%84%B8_820_v1_220928.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "10월 횟수 무제한 배달비무료 2022년 10월 1일 ~ 2022년 10월 31일",
+      "company": "이마트24",
+      "imgUrl": "https://www.emart24.co.kr/upload/eventCard/PC%EC%83%81%EC%84%B8_820_v2_220928.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "10월 증정할인행사 단풍의계절 10월 1일 ~ 10월 31일",
+      "company": "씨스페이스",
+      "imgUrl": "https://cspace.co.kr/program_file/board/contents_img01/vO720220930152219.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "10월 주류행사 10월 1일 ~ 10월 31일",
+      "company": "씨스페이스",
+      "imgUrl": "https://cspace.co.kr/program_file/board/contents_img01/afR20220930152144.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "10월 베스트11Days 국가대표 1+1 10.1 ~ 10.11",
+      "company": "CU",
+      "imgUrl": "http://cdn2.bgfretail.com/bgfbrand/files/editor/83798ADCED194F8C9423CFFF7191F310.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "10월 79타임 할인 10.1 ~ 10.31",
+      "company": "CU",
+      "imgUrl": "http://cdn2.bgfretail.com/bgfbrand/files/editor/8BD193FB1F964D1FACD5D4D48A09907E.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "함께해요! 대한민국 동행세일 2022.08.31 ~ 2022.09.15",
+      "company": "GS25와",
+      "imgUrl": "https://hpsimg.gsretail.com/medias/sys_master/images/images/h1a/hf1/9077448572958.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "대-단하고 충-분한 GS Pay 파격 행사 2022.09.01 ~ 2022.09.30",
+      "company": "GS25",
+      "imgUrl": "https://hpsimg.gsretail.com/medias/sys_master/images/images/he4/hcf/9077448638494.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "9월 GS25와 함께 오직 12일 간! 초특가 행사 2022.09.01 ~ 2022.09.12",
+      "company": "GS25",
+      "imgUrl": "https://hpsimg.gsretail.com/medias/sys_master/images/images/h92/hdf/9077439954974.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "더욱 범상치 않은 한 주 ‘+1’ & ‘할인’ 혜택을 동시에! 2022.09.01 ~ 2022.09.12",
+      "company": "GS25",
+      "imgUrl": "https://hpsimg.gsretail.com/medias/sys_master/images/images/h54/h10/9077439758366.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "대-단하고 충-분한 GS Pay 명품 키친웨어 이벤트 2022.09.01 ~ 2022.09.19",
+      "company": "GS25",
+      "imgUrl": "https://hpsimg.gsretail.com/medias/sys_master/images/images/h2e/hb8/9077210382366.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "9월 GS25와 함께하는 결제수단 파격행사! 2022.09.01 ~ 2022.09.30",
+      "company": "GS25",
+      "imgUrl": "https://hpsimg.gsretail.com/medias/sys_master/images/images/h50/hfa/9077210185758.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "국가대표 1+1 이벤트 9.1 ~ 9.11",
+      "company": "CU",
+      "imgUrl": "http://cdn2.bgfretail.com/bgfbrand/files/editor/C0A8BCB45BB744F2A4FE17AA690B991B.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "79타임 이벤트 9.1 ~ 9.30",
+      "company": "CU",
+      "imgUrl": "http://cdn2.bgfretail.com/bgfbrand/files/editor/63D3F77C74E149C2BAFAAF157932A500.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "9월 행사 모아보기",
+      "company": "CU",
+      "imgUrl": "http://cdn2.bgfretail.com/bgfbrand/files/editor/0456EC02D5ED43AB90AC8186652B872A.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "디지몬친구들 2022-09-01 ~ 2022-09-30",
+      "company": "세븐일레븐",
+      "imgUrl": "https://www.7-eleven.co.kr/upload/event/20220831101740392r942.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "몽키숄더 위스키 우리카드 현장할인 2022-09-01 ~ 2022-09-30",
+      "company": "세븐일레븐",
+      "imgUrl": "https://www.7-eleven.co.kr/upload/event/20220831100538448r13.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "9월 이달의 와인 2022-09-01 ~ 2022-09-30",
+      "company": "세븐일레븐",
+      "imgUrl": "https://www.7-eleven.co.kr/upload/event/20220831095710492r669.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "미래에셋페이 결제 시 모바일상품권 증정 2022-09-01 ~ 2022-09-30",
+      "company": "세븐일레븐",
+      "imgUrl": "https://www.7-eleven.co.kr/upload/event/20220831095540540r364.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "맥주번들 13종 우리카드 결제 시 할인 2022-09-01 ~ 2022-09-30",
+      "company": "세븐일레븐",
+      "imgUrl": "https://www.7-eleven.co.kr/upload/event/20220831095147800r661.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "굿민 전종 농협카드 결제 시 할인 2022-09-01 ~ 2022-09-30",
+      "company": "세븐일레븐",
+      "imgUrl": "https://www.7-eleven.co.kr/upload/event/20220831101012452r645.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "포켓몬 상품 12종 하나카드 결제 시 할인 2022-09-01 ~ 2022-09-30",
+      "company": "세븐일레븐",
+      "imgUrl": "https://www.7-eleven.co.kr/upload/event/20220831101528508r457.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "9월 카드혜택 안내 2022년 9월 1일 ~ 2022년 9월 30일",
+      "company": "이마트24",
+      "imgUrl": "https://www.emart24.co.kr/upload/eventCard/PC%EC%83%81%EC%84%B8_820_725.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "청춘버스 273 콜라보상품 반값 행사 2022년 8월 30일 ~ 2022년 9월 30일",
+      "company": "이마트24",
+      "imgUrl": "https://www.emart24.co.kr/upload/eventCard/273-%EB%A7%9B%EC%A7%91-%EC%BD%9C%EB%9D%BC%EB%B3%B4-%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80_820x960.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "동행축제 반값에 하나 더 1+1 2022년 8월 30일 ~ 2022년 9월 30일",
+      "company": "이마트24",
+      "imgUrl": "https://www.emart24.co.kr/upload/eventCard/%EB%8F%99%ED%96%89%EC%B6%95%EC%A0%9C%EC%83%81%EC%84%B8_820x1270.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "9월 횟수 무제한 배달비무료 2022년 9월 1일 ~ 2022년 9월 30일",
+      "company": "이마트24",
+      "imgUrl": "https://www.emart24.co.kr/upload/eventCard/PC%EC%83%81%EC%84%B8_820_v1_220823.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "9월 증정할인행사 가을맞이 (22.09.01~22.09.30)",
+      "company": "씨스페이스",
+      "imgUrl": "https://cspace.co.kr/program_file/board/contents_img01/WK20220831154250.jpg"
+    }
+  },
+  {
+    "model": "cvsinfo.event",
+    "fields": {
+      "name": "9월 주류할인행사(22.09.01~09.30)",
+      "company": "씨스페이스",
+      "imgUrl": "https://cspace.co.kr/program_file/board/contents_img01/4y20220831154048.jpg"
+    }
+  }
+]
