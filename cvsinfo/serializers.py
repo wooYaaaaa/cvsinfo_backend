@@ -4,7 +4,7 @@ from .models import Product, Event
 class ProductSerializer(serializers.ModelSerializer):
     class Meta:
         model = Product
-        fields = ('name', 'eventType', 'price', 'imageURL', 'company')
+        fields = ('name', 'eventType', 'price', 'imgURL', 'company')
 
 class EventSerializer(serializers.ModelSerializer):
     class Meta:
