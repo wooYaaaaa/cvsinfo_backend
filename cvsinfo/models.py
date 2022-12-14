@@ -16,4 +16,19 @@ class Event(models.Model):
     name = models.CharField(max_length=200)
     company = models.CharField(max_length=200,default='')
     imgUrl = models.CharField(max_length=200)
+
+class Feature(models.Model):
+    class Meta:
+        db_table = "feature"
+    name = models.CharField(max_length=200)
+    company = models.CharField(max_length=200)
+    parcel = models.BooleanField()
+    coffee = models.BooleanField()
+    fried = models.BooleanField()
+    atm = models.BooleanField()
+    toto = models.BooleanField()
+    hour24 = models.BooleanField()
+    loto = models.BooleanField()
+
+    
     
